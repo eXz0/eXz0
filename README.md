@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dave
-- 👀 I’m interested in Cloud Infrastructure and Security
+- 👀 I’m interested in anything Information Security! Specifically interested in Cloud Security, Infrastructure and Network Security and Endpoint Security. I also dabble in offensive security as a hobby
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source security projects
 
