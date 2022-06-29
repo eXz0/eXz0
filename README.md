@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eXz
-- 👀 I’m interested in Information Security and Automating Security
+- 👀 I’m interested in Cloud Infrastructure and Security
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source security projects
 
